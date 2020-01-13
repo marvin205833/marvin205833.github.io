@@ -1,0 +1,45 @@
+.apex_section {
+    width: 100%;
+    background-color: brown;
+}
+.apex_section_banner {
+    width: 100%;
+    background-color: black; 
+    position: relative;
+}
+.swiper-container {
+    width: 100%;
+    height: 800px;
+    background-attachment: fixed;
+}
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+}
+.apex_section_playerarea {
+    width: 100%;
+    height: 100vh;
+}
+.apex_section_player_pic {
+    width: 100%;
+    background-color: blue;
+}
+.apex_section_player_intro {
+    width: 100%;
+    height: 500px;
+    background-color: orangered;
+}
+.swiperapex-container{
+    width: 100%;
+    height: 300px;
+    background-attachment: fixed;
+}
+.swiperapex-container .swiperapexplayer {
+    width: 100%;
+    height: 100%;
+}
+.introPlayerArea
+{
+    width: 100%;
+    
+}
